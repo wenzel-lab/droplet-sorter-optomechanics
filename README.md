@@ -4,8 +4,9 @@ It in cludes the design of positioning, lasers, filters, detectors, fixtures for
 
 ## Related documents:
 * The open source FPGA controll is documented seperately: https://github.com/MakerTobey/Open_FADS_FPGA_control
-* The microfluidic chip is positioned with an open source SQUID microscopy stage: https://github.com/wenzel-lab/squid-motorized-stage
-* And the otptical detection arm assembly is based on the UC2 3d printed optics cubes: https://github.com/openUC2/UC2-GIT
+* The microfluidic chip is positioned with an [open source SQUID microscopy stage](https://github.com/wenzel-lab/squid-motorized-stage).
+* And the otptical detection arm assembly is based on the [Open-UC2 3d printed optics cubes](https://github.com/openUC2/UC2-GIT).
+* The modified and new Open-UC2 compatible cubes can be found in the STL folder of this repository, and all modifyable design files are openly availble in the cloud [here on OnShape](https://tinyurl.com/WenzelLabUC2), where you can view, export and copy (to modify) the project designs.
 
 ## Contribution guide
 
