@@ -14,7 +14,7 @@ An example of new designs for this project:
 
 <img src="https://github.com/wenzel-lab/Open_FADS_optomechanics/blob/main/images/filter_cube_with_heat_inserts1.jpg" width="300">
 <img src="https://github.com/wenzel-lab/Open_FADS_optomechanics/blob/main/images/filter_cube_finished_(green_blue).jpg" width="300">
-<img src="https://github.com/wenzel-lab/Open_FADS_optomechanics/blob/main/images/objective_insert_as_filter_in cube.jpg" width="300">
+<img src="https://github.com/wenzel-lab/Open_FADS_optomechanics/blob/main/images/objective_insert_as_filter_in_cube.jpg" width="300">
 
 ## Contribution guide
 
