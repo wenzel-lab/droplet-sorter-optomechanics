@@ -12,9 +12,9 @@ It in cludes the design of positioning, lasers, filters, detectors, fixtures for
 
 A few examples of modified or new designs for this project:
 
-<img src="https://github.com/wenzel-lab/Open_FADS_optomechanics/blob/main/images/filter_cube_with_heat_inserts1.jpg" width="300">
 <img src="https://github.com/wenzel-lab/Open_FADS_optomechanics/blob/main/images/filter_cube_finished_(green_blue).jpg" width="300">
 <img src="https://github.com/wenzel-lab/Open_FADS_optomechanics/blob/main/images/objective_insert_as_filter_in_cube.jpg" width="300">
+<img src="https://github.com/wenzel-lab/Open_FADS_optomechanics/blob/main/images/detector_SiPM_holder_assembled.jpg" width="300">
 
 ## Contribution guide
 
