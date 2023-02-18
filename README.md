@@ -28,4 +28,4 @@ A few examples of modified or new designs for this project:
 
 ## Contribution guide
 
-This is an open collaborative project currently lead by Tobias Wenze in the Wenzel Lab in Santiago, Chile; your participation (comments, inputs, contributions, issues) are explicitly welcome! Please get involved by extending the project or interacting with us by submitting an issue, or contact us (e.g. [here](https://ingenieriabiologicaymedica.uc.cl/en/people/faculty/821-tobias-wenzel)).
+This is an open project in the Wenzel Lab in Santiago, Chile; your participation (comments, inputs, contributions, issues) are explicitly welcome! Please get involved by extending the project or interacting with us by submitting an issue, or contact us (e.g. [here](https://ingenieriabiologicaymedica.uc.cl/en/people/faculty/821-tobias-wenzel)).
