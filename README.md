@@ -20,6 +20,8 @@ A few examples of modified or new designs for this project:
 <p align="center">
 <img src="./images/filter_cube_finished_(green_blue).jpg" height="350">
 <img src="./images/objective_insert_as_filter_in_cube.jpg" height="350">
+</p>
+<p align="center">
 <img src="./images/detector_SiPM_holder_assembled.jpg" height="350">
 <img src="./images/mirror_mount_with_heat_inserts_assembled.jpg" height="350">
 </p>
