@@ -25,6 +25,9 @@ A few examples of modified or new designs for this project:
 <img src="./images/detector_SiPM_holder_assembled.jpg" height="350">
 <img src="./images/mirror_mount_with_heat_inserts_assembled.jpg" height="350">
 </p>
+<p align="center">
+<img src="./images/detection_arm_assembly.jpg" height="350">
+</p>
 
 ## Contribution guide
 
