@@ -18,15 +18,15 @@ If you are wondering what the sorting of microfluidic droplets is, we reccomend 
 A few examples of modified or new designs for this project:
 
 <p align="center">
-<img src="./images/filter_cube_finished_(green_blue).jpg" height="350">
-<img src="./images/objective_insert_as_filter_in_cube.jpg" height="350">
+<img src="./images/filter_cube_finished_(green_blue).jpg" height="300">
+<img src="./images/objective_insert_as_filter_in_cube.jpg" height="300">
 </p>
 <p align="center">
-<img src="./images/detector_SiPM_holder_assembled.jpg" height="350">
-<img src="./images/mirror_mount_with_heat_inserts_assembled.jpg" height="350">
+<img src="./images/detector_SiPM_holder_assembled.jpg" height="300">
+<img src="./images/mirror_mount_with_heat_inserts_assembled.jpg" height="300">
 </p>
 <p align="center">
-<img src="./images/detection_arm_assembly.jpg" height="350">
+<img src="./images/detection_arm_assembly.jpg" height="400">
 </p>
 
 ## Contribution guide
