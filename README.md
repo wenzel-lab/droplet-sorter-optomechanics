@@ -1,4 +1,4 @@
-# Open Soure Hardware Optics and Mechanics Design for Fluorescence Activated (Microfluidic) Droplet Sorting (FADS)
+# Open Soure Hardware Optics and Mechanics Design for Fluorescence Activated (Microfluidic) Droplet Sorting (FADS) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 It in cludes the design of positioning, lasers, filters, detectors, fixtures for open droplet sorting. Note that the design in this repository is quite different to literatures designs. The set-up has been re-designed in order to make it more low-cost (estimated parts cost 20.000 USD, mainly for optical filters, detectors and laser) and open source, including hardware, software and accessible fabrication of parts where possible. Also, a number of updates and improvements have been made over the current state-of the art of droplet sorters, inspired by technical advances in the related field of flow-cytometry.
 
@@ -29,6 +29,11 @@ A few examples of modified or new designs for this project:
 <img src="./images/detection_arm_assembly.jpg" height="400">
 </p>
 
-## Contribution guide
+## Contribute
 
-This is an open project in the Wenzel Lab in Santiago, Chile; your participation (comments, inputs, contributions, issues) are explicitly welcome! Please get involved by extending the project or interacting with us by submitting an issue, or contact us (e.g. [here](https://ingenieriabiologicaymedica.uc.cl/en/people/faculty/821-tobias-wenzel)).
+This is an open project in the Wenzel Lab in Santiago, Chile. If you have any suggestions to improve it or add any additional functions make a pull-request or [open an issue](https://github.com/wenzel-lab/droplet-cytometry-optomechanics/issues/new).
+For interactions in our team and with the community applies the [GOSH Code of Conduct](https://openhardware.science/gosh-2017/gosh-code-of-conduct/).
+
+## License
+
+[CERN OHL 2W](LICENSE) © Tobias Wenzel. This project is Open Source Hardware - please acknowledge us when using the hardware or sharing modifications.
